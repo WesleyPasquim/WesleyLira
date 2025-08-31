@@ -1,0 +1,21 @@
+header {
+    color: #14e75a; /* Cores no menu selecionado */
+
+}
+
+
+
+body {
+    font-family: Arial, sans-serif;  /* nomedaletra */
+    background-color: #f4f4f9; /* cordefundo */
+    color: #333; /* cordaletra */
+    line-height: 1.6; /* linhas */
+    padding: 20px; /*pxpágina  */
+}
+
+
+form { /* configuração do formulário */
+    display: flex;
+    flex-direction: column; 
+}
+
