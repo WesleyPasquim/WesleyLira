@@ -6,16 +6,17 @@ header {
 
 
 body {
-    font-family: Arial, sans-serif;  /* nomedaletra */
-    background-color: #f4f4f9; /* cordefundo */
     color: #333; /* cordaletra */
+    background-color: #f4f4f9; /* cordefundo */
     line-height: 1.6; /* linhas */
     padding: 20px; /*pxpágina  */
+    font-family: Arial, sans-serif;  /* nomedaletra */
+
 }
 
 
 form { /* configuração do formulário */
-    display: flex;
     flex-direction: column; 
+    display: flex;
 }
 
